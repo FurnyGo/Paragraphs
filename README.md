@@ -2,5 +2,4 @@
 Minecraft mod that allows you to write Section sign  
 May be useful when you paste item NBT in command block or mods  
 
-Versions: Fabric 1.16-1.20.4 and higher  
-Download: [click](https://github.com/FurnyGo/Paragraphs/releases/download/v1.0/paragraphs-1.0.jar)
+Versions: [Fabric 1.16-1.20.4](https://github.com/FurnyGo/Paragraphs/releases/download/v1.0/paragraphs-1.0.jar), [1.20.5 and higher](https://github.com/FurnyGo/Paragraphs/releases/download/v1.1/paragraphs-1.1.0.jar) (click)  
